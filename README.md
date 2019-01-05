@@ -1,4 +1,5 @@
-# MACHINE LEARNING NANODEGREE CAPSTONE PROJECT, UDACITY
+# **MACHINE LEARNING NANODEGREE CAPSTONE PROJECT, UDACITY**
+
 ## TGS Salt Identification Challenge(Kaggle)
 ### Project Goal: The goal is to segment regions that contain salt using seismic data
 

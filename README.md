@@ -1,8 +1,9 @@
-#MACHINE LEARNING NANODEGREE CAPSTONE PROJECT, UDACITY
-##TGS Salt Identification Challenge(Kaggle)
-###Project Goal: The goal is to segment regions that contain salt using seismic data
+# MACHINE LEARNING NANODEGREE CAPSTONE PROJECT, UDACITY
+## TGS Salt Identification Challenge(Kaggle)
+### Project Goal: The goal is to segment regions that contain salt using seismic data
 
 The main filename is TGS_salt-Identification-main.ipynb
+
 I ran the TGS_salt-Identification-main.ipynb on google colab.
 
 You will need kaggle api installed in colab or your local machine for this.
